@@ -1,15 +1,21 @@
 [
   {
-    "title": "U.S. military hits 3 Iranian oil tankers after saying its navy warships were targeted",
-    "url": "https://www.cbc.ca/news/world/iran-united-states-strikes-oil-tankers-9.7333805?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-09-05T15:17:15Z"
-  },
-  {
     "title": "U.S. strikes three Iranian oil tankers in renewal of hostilities",
     "url": "https://www.npr.org/2026/09/05/nx-s1-5959181/u-s-strikes-three-iranian-oil-tankers-in-renewal-of-hostilities",
     "source": "NPR",
     "publishedAt": "2026-09-05T21:01:12Z"
+  },
+  {
+    "title": "U.S. strikes Iranian oil tankers in retaliation for missile attacks on Navy ships",
+    "url": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
+    "source": "NPR",
+    "publishedAt": "2026-09-05T15:05:08Z"
+  },
+  {
+    "title": "Iran war live: IRGC claims attacks on 3 oil tankers and 3 US-linked ships",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-06T00:00:00Z"
   },
   {
     "title": "Majority Russian-speaking city in Ukraine considers language ban in the arts",
@@ -30,16 +36,40 @@
     "publishedAt": "2026-09-05T21:11:25Z"
   },
   {
-    "title": "US says it hit three Iranian oil tankers after attacks on warships",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-05T15:49:44Z"
-  },
-  {
     "title": "US military says it struck three Iranian tankers after American warships came under missile attack",
     "url": "https://www.theguardian.com/world/2026/sep/05/us-military-iran-tankers",
     "source": "The Guardian",
     "publishedAt": "2026-09-05T15:41:22Z"
+  },
+  {
+    "title": "Victoria police release image of man on run after allegedly attacking three people with axe",
+    "url": "https://www.theguardian.com/australia-news/2026/sep/06/manhunt-after-alleged-axe-attack-in-victoria-leaves-three-people-with-life-threatening-injuries-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-06T05:14:08Z"
+  },
+  {
+    "title": "U.S. military hits 3 Iranian oil tankers after saying its navy warships were targeted",
+    "url": "https://www.cbc.ca/news/world/iran-united-states-strikes-oil-tankers-9.7333805?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-09-05T15:17:15Z"
+  },
+  {
+    "title": "Travellers to EU face renewed queues as border-check flexibility rules expire",
+    "url": "https://www.theguardian.com/business/2026/sep/06/travellers-eu-queues-border-check-flexibility-rules-expire-entry-exit-system-ees",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-06T05:00:56Z"
+  },
+  {
+    "title": "Labor plans crackdown on social media algorithms as Taylor says he’s ‘deeply sceptical’",
+    "url": "https://www.theguardian.com/australia-news/2026/sep/06/labor-plans-crackdown-on-social-media-algorithms-as-taylor-says-hes-deeply-sceptical",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-06T04:08:08Z"
+  },
+  {
+    "title": "‘Nobody will win’: Zelenskyy adviser warns of mutual destruction if war with Russia continues",
+    "url": "https://www.theguardian.com/world/2026/sep/06/zelenskyy-advisor-warns-mutual-destruction-war-russia",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-06T04:00:55Z"
   },
   {
     "title": "Civilians among at least 60 killed in Yemen as ground fighting escalates",
@@ -54,6 +84,24 @@
     "publishedAt": "2026-09-05T13:28:29Z"
   },
   {
+    "title": "Nearly 9,000 killed in Israeli attacks on Lebanon since 2023",
+    "url": "https://www.aljazeera.com/news/2026/9/6/nearly-9000-killed-in-israeli-attacks-on-lebanon-since-2023?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-06T02:56:31Z"
+  },
+  {
+    "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
+    "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-09-06T02:24:16Z"
+  },
+  {
+    "title": "Trump envoys and Putin discussed ‘next steps’ for ending Ukraine war, White House says",
+    "url": "https://www.theguardian.com/world/2026/sep/05/steve-witkoff-jared-kushner-russia-revive-ukraine-talks",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-06T02:21:03Z"
+  },
+  {
     "title": "How the U.S. focus on Iran is fueling a more aggressive Putin",
     "url": "https://www.npr.org/2026/09/05/nx-s1-5955705/how-the-u-s-focus-on-iran-is-fueling-a-more-aggressive-putin",
     "source": "NPR",
@@ -66,57 +114,9 @@
     "publishedAt": "2026-09-05T11:08:57Z"
   },
   {
-    "title": "‘Guilt by association’: why seven international aid workers were killed in Israeli airstrike",
-    "url": "https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-05T11:08:31Z"
-  },
-  {
-    "title": "Iran war live: IRGC claims new attacks on US warships over naval blockade",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss",
+    "title": "Netanyahu boasts about bombing Qatar, says Gaza funds used for aid",
+    "url": "https://www.aljazeera.com/news/2026/9/6/netanyahu-boasts-about-bombing-qatar-says-gaza-funds-used-for-aid?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-09-06T00:00:00Z"
-  },
-  {
-    "title": "Drone attack blamed on guerrillas kills at least three soldiers in Colombia",
-    "url": "https://www.theguardian.com/world/2026/sep/05/drone-attack-guerrillas-kills-soldiers-colombia",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-05T22:16:55Z"
-  },
-  {
-    "title": "Putin begins talks with Steve Witkoff and Jared Kushner on ending war with Ukraine",
-    "url": "https://www.theguardian.com/world/2026/sep/05/steve-witkoff-jared-kushner-russia-revive-ukraine-talks",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-05T22:13:55Z"
-  },
-  {
-    "title": "A month after migrants surged into Ceuta, thousands of kids are still stranded on the streets",
-    "url": "https://www.cbc.ca/news/world/ceuta-migrant-kids-stranded-9.7329787?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-09-05T08:00:00Z"
-  },
-  {
-    "title": "US envoys meet Putin in Moscow for Ukraine talks",
-    "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-09-05T21:39:02Z"
-  },
-  {
-    "title": "US envoys Witkoff, Kushner meet Putin for talks on Ukraine war",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-05T21:23:06Z"
-  },
-  {
-    "title": "This is the work of our lifetime: Ayana Elizabeth Johnson urges action after new UN climate report",
-    "url": "https://www.npr.org/2026/09/05/nx-s1-5954264/this-is-the-work-of-our-lifetime-ayana-elizabeth-johnson-urges-action-after-new-un-climate-report",
-    "source": "NPR",
-    "publishedAt": "2026-09-05T21:01:08Z"
-  },
-  {
-    "title": "Colombian government reports three killed in rebel attack on military post",
-    "url": "https://www.aljazeera.com/news/2026/9/5/colombian-government-reports-three-killed-in-rebel-attack-on-military-post?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-05T20:03:29Z"
+    "publishedAt": "2026-09-06T01:02:08Z"
   }
 ]
