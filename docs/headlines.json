@@ -1,15 +1,27 @@
 [
   {
-    "title": "Iran claims strike on U.S. ship in Strait of Hormuz as fighting escalates",
-    "url": "https://www.cbc.ca/news/world/iran-claims-strike-us-ship-9.7334159?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-09-06T09:11:07Z"
-  },
-  {
     "title": "U.S. strikes three Iranian oil tankers in renewal of hostilities",
     "url": "https://www.npr.org/2026/09/05/nx-s1-5959181/u-s-strikes-three-iranian-oil-tankers-in-renewal-of-hostilities",
     "source": "NPR",
     "publishedAt": "2026-09-05T21:01:12Z"
+  },
+  {
+    "title": "Seven mouths, one meal: Feeding a family through Gaza’s food crisis",
+    "url": "https://www.aljazeera.com/features/2026/9/6/seven-mouths-one-meal-feeding-a-family-through-gazas-food-crisis?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-06T13:15:46Z"
+  },
+  {
+    "title": "Germany, Kosovo unite against ticks carrying deadly virus",
+    "url": "https://www.dw.com/en/germany-kosovo-unite-against-ticks-carrying-deadly-virus/a-78655223?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-09-06T10:25:00Z"
+  },
+  {
+    "title": "Iran claims a strike on a U.S. ship in the Strait of Hormuz, which the U.S. denies",
+    "url": "https://www.cbc.ca/news/world/iran-claims-strike-us-ship-9.7334159?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-09-06T09:11:07Z"
   },
   {
     "title": "Majority Russian-speaking city in Ukraine considers language ban in the arts",
@@ -18,19 +30,61 @@
     "publishedAt": "2026-09-05T23:54:07Z"
   },
   {
+    "title": "German startup sends first commercial rocket into space from Europe",
+    "url": "https://www.theguardian.com/business/2026/sep/06/german-startup-sends-first-commercial-rocket-into-space-from-europe",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-06T13:21:36Z"
+  },
+  {
+    "title": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
+    "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-09-06T13:16:21Z"
+  },
+  {
+    "title": "US envoys Kushner and Witkoff arrive in Kyiv after talks with Putin",
+    "url": "https://www.theguardian.com/world/2026/sep/06/us-envoys-jared-kushner-steve-witkoff-arrive-kyiv-talks-on-ending-war",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-06T13:05:46Z"
+  },
+  {
+    "title": "Israeli strikes kill 4 in southern Lebanon",
+    "url": "https://www.cbc.ca/news/world/israeli-strikes-southern-lebanon-9.7334203?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-09-06T13:03:46Z"
+  },
+  {
+    "title": "US envoys Witkoff, Kushner arrive in Kiyv after Putin talks",
+    "url": "https://www.dw.com/en/us-envoys-witkoff-kushner-arrive-in-kiyv-after-putin-talks/a-79054779?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-09-06T13:02:00Z"
+  },
+  {
+    "title": "Algeria civil defence recovers body of 10-year-old boy from well",
+    "url": "https://www.aljazeera.com/news/2026/9/6/algeria-civil-defence-recovers-body-of-10-year-old-boy-from-well?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-06T12:55:06Z"
+  },
+  {
+    "title": "Bangladesh protesters demand action over rising costs",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/bangladesh-protesters-demand-action-over-rising-costs?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-06T12:45:36Z"
+  },
+  {
     "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
     "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-09-05T22:44:07Z"
   },
   {
-    "title": "US envoys Witkoff and Kushner set for talks in Kyiv after meeting with Putin in Moscow",
-    "url": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
-    "source": "NPR",
-    "publishedAt": "2026-09-06T09:51:04Z"
+    "title": "US, Iran engaged in tanker war: Where is the months-long conflict headed?",
+    "url": "https://www.aljazeera.com/news/2026/9/6/us-iran-engaged-in-tanker-war-where-is-the-months-long-conflict-headed?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-06T10:49:22Z"
   },
   {
-    "title": "Witkoff and Kushner discuss ‘next steps’ with Putin to end Ukraine war, says US",
+    "title": "Witkoff and Kushner discussed ‘next steps’ with Putin to end Ukraine war, says US",
     "url": "https://www.theguardian.com/world/2026/sep/05/steve-witkoff-jared-kushner-russia-revive-ukraine-talks",
     "source": "The Guardian",
     "publishedAt": "2026-09-06T09:23:22Z"
@@ -64,59 +118,5 @@
     "url": "https://www.theguardian.com/australia-news/2026/sep/06/brisbane-queensland-hottest-september-day-in-years-east-coast-unseasonably-warm-weather",
     "source": "The Guardian",
     "publishedAt": "2026-09-06T06:57:50Z"
-  },
-  {
-    "title": "Broken feet, ripped-out hair and now a death sentence: the fate of twin sisters jailed over Iran protests",
-    "url": "https://www.theguardian.com/world/2026/sep/06/taraneh-romina-rahimi-twin-sisters-jailed-over-iran-protests",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-06T06:00:58Z"
-  },
-  {
-    "title": "US military says it struck three Iranian tankers after American warships came under missile attack",
-    "url": "https://www.theguardian.com/world/2026/sep/05/us-military-iran-tankers",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-05T15:41:22Z"
-  },
-  {
-    "title": "U.S. military hits 3 Iranian oil tankers after saying its navy warships were targeted",
-    "url": "https://www.cbc.ca/news/world/iran-united-states-strikes-oil-tankers-9.7333805?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-09-05T15:17:15Z"
-  },
-  {
-    "title": "Travellers to EU face renewed queues as border-check flexibility rules expire",
-    "url": "https://www.theguardian.com/business/2026/sep/06/travellers-eu-queues-border-check-flexibility-rules-expire-entry-exit-system-ees",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-06T05:00:56Z"
-  },
-  {
-    "title": "U.S. and Iran trade attacks on ships as fighting flares up again",
-    "url": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
-    "source": "NPR",
-    "publishedAt": "2026-09-05T15:05:08Z"
-  },
-  {
-    "title": "Labor plans crackdown on social media algorithms as Taylor says he’s ‘deeply sceptical’",
-    "url": "https://www.theguardian.com/australia-news/2026/sep/06/labor-plans-crackdown-on-social-media-algorithms-as-taylor-says-hes-deeply-sceptical",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-06T04:08:08Z"
-  },
-  {
-    "title": "‘Nobody will win’: Zelenskyy adviser warns of mutual destruction if war with Russia continues",
-    "url": "https://www.theguardian.com/world/2026/sep/06/zelenskyy-advisor-warns-mutual-destruction-war-russia",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-06T04:00:55Z"
-  },
-  {
-    "title": "Civilians among at least 60 killed in Yemen as ground fighting escalates",
-    "url": "https://www.theguardian.com/world/2026/sep/05/yemen-ground-fighting-escalates-houthi-rebels-government-forces",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-05T13:47:19Z"
-  },
-  {
-    "title": "Putin meets with U.S. envoys at the Kremlin in renewed talks over war in Ukraine",
-    "url": "https://www.cbc.ca/news/world/putin-pause-strikes-us-envoys-russia-9.7333737?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-09-05T13:28:29Z"
   }
 ]
