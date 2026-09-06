@@ -30,12 +30,6 @@
     "publishedAt": "2026-09-06T15:00:10Z"
   },
   {
-    "title": "Seven mouths, one meal: Feeding a family through Gaza’s food crisis",
-    "url": "https://www.aljazeera.com/features/2026/9/6/seven-mouths-one-meal-feeding-a-family-through-gazas-food-crisis?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-06T13:15:46Z"
-  },
-  {
     "title": "U.S. envoys Witkoff and Kushner hold talks in Ukraine after meeting with Putin",
     "url": "https://www.cbc.ca/news/world/witkoff-kushner-arrive-ukraine-after-russia-visit-9.7334181?cmp=rss",
     "source": "CBC",
@@ -52,6 +46,36 @@
     "url": "https://www.cbc.ca/news/world/iran-claims-strike-us-ship-9.7334159?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-09-06T09:11:07Z"
+  },
+  {
+    "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+    "url": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-09-06T20:52:12Z"
+  },
+  {
+    "title": "Amazon cargo plane strikes multiple vehicles after overrunning Miami runway",
+    "url": "https://www.cbc.ca/news/world/amazon-cargo-plan-overrun-runway-in-miami-9.7334414?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-09-06T19:46:40Z"
+  },
+  {
+    "title": "Woman laid to rest in coffin made from mushrooms in Australian first",
+    "url": "https://www.theguardian.com/australia-news/2026/sep/07/australian-woman-buried-in-mushroom-coffin-blue-mountains",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-06T19:00:12Z"
+  },
+  {
+    "title": "US envoys Kushner and Witkoff visit Kyiv for first time after Putin talks",
+    "url": "https://www.theguardian.com/world/2026/sep/06/us-envoys-jared-kushner-steve-witkoff-arrive-kyiv-talks-on-ending-war",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-06T18:47:59Z"
+  },
+  {
+    "title": "Witkoff says peace talks have been ‘very meaningful’ in Ukraine",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/witkoff-says-peace-talks-have-been-very-meaningful-in-ukraine?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-06T18:28:27Z"
   },
   {
     "title": "Energy secretary says US might not reach nuclear agreement with Iran",
@@ -94,29 +118,5 @@
     "url": "https://www.aljazeera.com/news/2026/9/6/us-envoys-hold-substantive-talks-with-zelenskyy-in-first-visit-to-kyiv?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-09-06T15:32:00Z"
-  },
-  {
-    "title": "US envoys meet Putin: What’s behind latest diplomacy on Russia-Ukraine war?",
-    "url": "https://www.aljazeera.com/news/2026/9/6/putin-meets-us-envoys-whats-behind-latest-diplomacy-on-russia-ukraine-war?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-06T15:00:16Z"
-  },
-  {
-    "title": "Majority Russian-speaking city in Ukraine considers language ban in the arts",
-    "url": "https://www.bbc.co.uk/news/articles/c33kzvgn8pyo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-09-05T23:54:07Z"
-  },
-  {
-    "title": "How significant are the Yemeni government’s military gains against Houthis?",
-    "url": "https://www.aljazeera.com/news/2026/9/6/how-significant-are-the-yemeni-governments-military-gains-against-the-houthis?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-06T13:41:25Z"
-  },
-  {
-    "title": "German startup sends first commercial rocket into space from Europe",
-    "url": "https://www.theguardian.com/business/2026/sep/06/german-startup-sends-first-commercial-rocket-into-space-from-europe",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-06T13:21:36Z"
   }
 ]
