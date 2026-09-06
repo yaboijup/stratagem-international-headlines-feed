@@ -1,9 +1,21 @@
 [
   {
+    "title": "EU faces 300,000 factory job cuts as China ‘colonises’ supply chains, industry warns",
+    "url": "https://www.theguardian.com/business/2026/sep/06/eu-factory-job-cuts-china-colonises-supply-chains-industry-warns",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-06T17:00:10Z"
+  },
+  {
     "title": "U.S. strikes three Iranian oil tankers in renewal of hostilities",
     "url": "https://www.npr.org/2026/09/05/nx-s1-5959181/u-s-strikes-three-iranian-oil-tankers-in-renewal-of-hostilities",
     "source": "NPR",
     "publishedAt": "2026-09-05T21:01:12Z"
+  },
+  {
+    "title": "Photos: UN urges global aid after China, Nepal floods kill over 1,300",
+    "url": "https://www.aljazeera.com/gallery/2026/9/6/photos-nepal-flood-survivors-face-overwhelming-devastation?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-06T17:50:17Z"
   },
   {
     "title": "China prepares £40bn stimulus for financial sector amid fears over sluggish growth",
@@ -24,6 +36,12 @@
     "publishedAt": "2026-09-06T13:15:46Z"
   },
   {
+    "title": "U.S. envoys Witkoff and Kushner hold talks in Ukraine after meeting with Putin",
+    "url": "https://www.cbc.ca/news/world/witkoff-kushner-arrive-ukraine-after-russia-visit-9.7334181?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-09-06T12:48:32Z"
+  },
+  {
     "title": "Germany, Kosovo unite against ticks carrying deadly virus",
     "url": "https://www.dw.com/en/germany-kosovo-unite-against-ticks-carrying-deadly-virus/a-78655223?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
@@ -36,6 +54,30 @@
     "publishedAt": "2026-09-06T09:11:07Z"
   },
   {
+    "title": "Energy secretary says US might not reach nuclear agreement with Iran",
+    "url": "https://www.theguardian.com/world/2026/sep/06/us-iran-nuclear-agreement-chris-wright",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-06T17:39:10Z"
+  },
+  {
+    "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
+    "url": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-09-06T17:00:56Z"
+  },
+  {
+    "title": "Trump official says ‘there may not be a nuclear agreement’ with Iran",
+    "url": "https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-06T16:59:04Z"
+  },
+  {
+    "title": "Lamine Yamal and Fermin Lopez star as Barcelona run riot at Valencia",
+    "url": "https://www.aljazeera.com/sports/2026/9/6/lamine-yamal-and-fermin-lopez-star-as-barcelona-run-riot-at-valencia?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-06T16:55:38Z"
+  },
+  {
     "title": "Iran touts military response as US maintains blockade, hits tankers",
     "url": "https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers?traffic_source=rss",
     "source": "Al Jazeera",
@@ -46,12 +88,6 @@
     "url": "https://www.aljazeera.com/news/2026/9/6/niger-military-accuses-france-of-orchestrating-failed-mutiny-what-to-know?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-09-06T15:42:00Z"
-  },
-  {
-    "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
-    "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-09-06T15:32:27Z"
   },
   {
     "title": "US envoys hold ‘substantive’ talks with Zelenskyy in first visit to Kyiv",
@@ -82,41 +118,5 @@
     "url": "https://www.theguardian.com/business/2026/sep/06/german-startup-sends-first-commercial-rocket-into-space-from-europe",
     "source": "The Guardian",
     "publishedAt": "2026-09-06T13:21:36Z"
-  },
-  {
-    "title": "US envoys Kushner and Witkoff arrive in Kyiv after talks with Putin",
-    "url": "https://www.theguardian.com/world/2026/sep/06/us-envoys-jared-kushner-steve-witkoff-arrive-kyiv-talks-on-ending-war",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-06T13:05:46Z"
-  },
-  {
-    "title": "Israeli strikes kill 4 in southern Lebanon",
-    "url": "https://www.cbc.ca/news/world/israeli-strikes-southern-lebanon-9.7334203?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-09-06T13:03:46Z"
-  },
-  {
-    "title": "US envoys Witkoff, Kushner arrive in Kiyv after Putin talks",
-    "url": "https://www.dw.com/en/us-envoys-witkoff-kushner-arrive-in-kiyv-after-putin-talks/a-79054779?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-09-06T13:02:00Z"
-  },
-  {
-    "title": "Algeria civil defence recovers body of 10-year-old boy from well",
-    "url": "https://www.aljazeera.com/news/2026/9/6/algeria-civil-defence-recovers-body-of-10-year-old-boy-from-well?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-06T12:55:06Z"
-  },
-  {
-    "title": "Bangladesh protesters demand action over rising costs",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/bangladesh-protesters-demand-action-over-rising-costs?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-06T12:45:36Z"
-  },
-  {
-    "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
-    "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-09-05T22:44:07Z"
   }
 ]
