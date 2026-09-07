@@ -1,5 +1,11 @@
 [
   {
+    "title": "Iran war live: Tehran to announce new Hormuz shipping route in coming days",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-07T00:00:00Z"
+  },
+  {
     "title": "EU faces 300,000 factory job cuts as China ‘colonises’ supply chains, industry warns",
     "url": "https://www.theguardian.com/business/2026/sep/06/eu-factory-job-cuts-china-colonises-supply-chains-industry-warns",
     "source": "The Guardian",
@@ -10,6 +16,12 @@
     "url": "https://www.npr.org/2026/09/06/nx-s1-5955419/shipping-companies-are-putting-sails-back-on-cargo-ships",
     "source": "NPR",
     "publishedAt": "2026-09-06T21:06:46Z"
+  },
+  {
+    "title": "Why is Kenya cracking down on foreign traders and small retailers?",
+    "url": "https://www.aljazeera.com/news/2026/9/7/why-is-kenya-cracking-down-on-foreign-traders-and-small-retailers?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-07T01:08:55Z"
   },
   {
     "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
@@ -48,6 +60,18 @@
     "publishedAt": "2026-09-06T12:48:32Z"
   },
   {
+    "title": "Hundreds of far-right protesters descend on Portsmouth after small boat arrival",
+    "url": "https://www.theguardian.com/uk-news/2026/sep/06/far-right-protesters-descend-on-portsmouth-after-small-boat-arrival",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-07T01:33:01Z"
+  },
+  {
+    "title": "North Korea deploys warship ‘capable of annihilating retaliatory strikes’",
+    "url": "https://www.aljazeera.com/news/2026/9/7/north-korea-deploys-warship-capable-of-annihilating-retaliatory-strikes?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-07T00:20:04Z"
+  },
+  {
     "title": "Germany, Kosovo unite against ticks carrying deadly virus",
     "url": "https://www.dw.com/en/germany-kosovo-unite-against-ticks-carrying-deadly-virus/a-78655223?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
@@ -64,12 +88,6 @@
     "url": "https://www.dw.com/en/us-envoys-witkoff-and-kushner-hold-ukraine-talks-after-meeting-putin/a-79054779?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
     "publishedAt": "2026-09-06T22:22:00Z"
-  },
-  {
-    "title": "Far-right protesters descend on Portsmouth after small boat arrival",
-    "url": "https://www.theguardian.com/uk-news/2026/sep/06/far-right-protesters-descend-on-portsmouth-after-small-boat-arrival",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-06T21:38:52Z"
   },
   {
     "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
@@ -100,23 +118,5 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/witkoff-says-peace-talks-have-been-very-meaningful-in-ukraine?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-09-06T18:28:27Z"
-  },
-  {
-    "title": "Energy secretary says US might not reach nuclear agreement with Iran",
-    "url": "https://www.theguardian.com/world/2026/sep/06/us-iran-nuclear-agreement-chris-wright",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-06T17:39:10Z"
-  },
-  {
-    "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
-    "url": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-09-06T17:00:56Z"
-  },
-  {
-    "title": "Trump official says ‘there may not be a nuclear agreement’ with Iran",
-    "url": "https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-06T16:59:04Z"
   }
 ]
